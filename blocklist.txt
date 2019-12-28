@@ -57,5 +57,5 @@
 !--------------------------------------------!
 m.booktxt.net/proxy_top_banner_js.php
 msite.baidu.com
-||hm.baidu.com^$3p
+hm.baidu.com
 nuanyuehanxing.com
