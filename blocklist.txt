@@ -1,6 +1,6 @@
 ! Title:Easy Safari
 ! Version:2019/1/17/12:46
-!--------------------------------------------!
+!--------------------------------------------
 /?u=*|$third-party
 /222.js
 /ab_res/m/common.js
@@ -25,7 +25,7 @@
 /template/web/allgg/wap.js
 /templets/default/images/*.gif
 /xxgg/book.js
-!--------------------------------------------!
+!--------------------------------------------
 .aspx?Bln=*$third-party
 .booktxt.net/js/*.js?*=
 .com/adv/
@@ -54,7 +54,7 @@
 .php?u=*$third-party
 .sufficient.cn
 .zhuyuanp.
-!--------------------------------------------!
+!--------------------------------------------
 m.booktxt.net/proxy_top_banner_js.php
 msite.baidu.com
 hm.baidu.com
