@@ -139,6 +139,7 @@ _960_90.
 .php?mg=$image
 *btbtt.*/imgs.js
 !--------------------------------------
+hm.baidu.com^$3p
 hm.baidu.com/hm.js
 hm.baidu.com
 qasdw3.xyz
